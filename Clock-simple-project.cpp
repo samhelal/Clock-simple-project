@@ -15,7 +15,7 @@ int main()
 
     cout << " Enter sec " << endl;
     cin >> sec;
-    int x = 0;
+    
     while (true)
     {
         system("cls");
